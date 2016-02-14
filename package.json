@@ -1,0 +1,12 @@
+{
+ "name": "pintxos_server",
+ "version": "1.0.0",
+ "dependencies": {
+    "mongoose": "*",
+    "express": "*",
+    "method-override": "*",
+    "body-parser": "*",
+    "qr-image": "*",
+    "pdfkit": "*"
+  }
+}
